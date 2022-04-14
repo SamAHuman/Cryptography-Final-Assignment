@@ -10,6 +10,7 @@
 ### data download
 DOwnload from this link
 https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
+ANd extract it using feature_extraction.ipynb
 
 #### Repository Structure
 
